@@ -52,6 +52,14 @@
     -	Tìm kiếm theo danh mục
     -	Báo cáo thống kê theo danh mục
     -	In hóa đơn thanh toán.
-###
+### 🛠️ CÔNG NGHỆ SỬ DỤNG
+    - Dùng nền tảng .NET
+    - Sử dụng ngôn ngữ C#
+    - Microsoft Visual Studio 
+    - SQL Server
+    - Crystal Reports
+### 📝 LIÊN HỆ
+    -Email: nguyenngocquyet04092003@gmail.com
+
 
 
