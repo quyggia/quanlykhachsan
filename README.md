@@ -5,6 +5,31 @@
   
     -Qua đó, phần mềm cải thiện trải nghiệm cho cả nhân viên lẫn khách hàng, nâng cao chất lượng dịch vụ khách sạn.
   
+### ✨ TÍNH NĂNG CHÍNH
+    Quản lý hệ thống
+        -    Đăng nhập
+        -    Thoát
+    Quản lý danh mục
+        -    Quản lý khách hàng
+        -    Quản lý phòng
+        -    Quản lý dịch vụ
+        -    Quản lý hóa đơn
+        -    Quản lý hóa đơn dịch vụ
+    Chức năng
+        -	 Chức năng thuê phòng.
+        -    Chức năng trả phòng.
+        -    Chức năng sử dụng dịch vụ  
+    Tìm kiếm theo danh mục
+        -    Tìm kiếm theo phòng.
+        -    Tìm kiếm theo khách hàng.
+
+    Báo cáo thống kê theo danh mục
+        -    Báo cáo hóa đơn dịch vụ.
+        -    Báo cáo doanh thu thuê phòng
+
+    In hóa đơn thanh toán
+        -    In hóa đơn phòng.
+        -    In hóa đơn dịch vụ.
 ### 📸 HÌNH ẢNH MINH HỌA
   1. Đăng nhập  <img width="915" height="574" alt="image" src="https://github.com/user-attachments/assets/5f672ef7-9de1-47c0-8962-f0b4d4b6f8ba" />
 
@@ -44,14 +69,45 @@
 
   19. In hóa đơn dịch vụ  </br><img width="586" height="310" alt="image" src="https://github.com/user-attachments/assets/a64386da-eb10-478a-a15d-34eebaabea4d" />
 
-  
-### ✨ TÍNH NĂNG CHÍNH
-    -	Quản lý hệ thống
-    -	Quản lý danh mục
-    -	Chức năng thuê phòng và trả phòng
-    -	Tìm kiếm theo danh mục
-    -	Báo cáo thống kê theo danh mục
-    -	In hóa đơn thanh toán.
+### CƠ CẤU VỀ TỔ CHỨC VÀ NGHIỆP VỤ
+1. Chức năng thuê phòng
+     Cho phép khách hàng thuê phòng với các thao tác:
+
+        -	Thêm khách: Chuyển đến form quản lý khách hàng để thêm khách mới.
+        -	Cập nhật loại phòng: Hiển thị danh sách phòng theo loại.
+        -	Thuê phòng: Xác nhận thuê phòng.
+        -	Xóa phòng: Hủy phòng đã chọn.
+
+2. Chức năng trả phòng
+   Cho phép trả phòng với các thao tác:
+   
+        -	Trả phòng: Xác nhận trả phòng.
+        -	Tính tiền: Tính tổng chi phí thuê phòng và dịch vụ.
+        -	Tạo hóa đơn: Chuyển sang form tạo hóa đơn.
+
+3. Chức năng sử dụng dịch vụ
+
+       -    Cho phép khách hàng đặt thêm dịch vụ trong thời gian lưu trú và tạo hóa đơn dịch vụ.
+4. Tìm kiếm
+    Nhận yêu cầu tìm kiếm:
+   
+        -	Người quản lý có thể tìm thông tin theo các tiêu chí như mã phòng, tên khách hàng, ngày lưu trú, hoặc tổng số tiền.
+    Hiển thị kết quả:
+   
+        -	Kết quả được trả về dưới dạng danh sách chi tiết hoặc toàn bộ dữ liệu liên quan.
+        -	Cung cấp giao diện dễ thao tác để quản lý có thể lọc thông tin nhanh chóng.
+
+5. Báo cáo thống kê
+   
+        -	Thống kê hóa đơn dịch vụ: Tổng hợp các hóa đơn dịch vụ khách đã sử dụng, phân tích chi phí theo thời gian.
+        -	Thống kê hóa đơn theo nhân viên: Liệt kê các hóa đơn được thực hiện bởi từng nhân viên, giúp đánh giá hiệu quả làm việc.
+        -	Thống kê danh sách khách rời khách sạn: Hiển thị thông tin khách hàng rời đi theo khoảng thời gian xác định.
+        -	Thống kê giá dịch vụ: Tổng hợp các dịch vụ có mức giá và tần suất sử dụng cao, giúp định hướng kinh doanh.
+        -	Đánh giá và khen thưởng: Đưa ra đánh giá dựa trên doanh thu và mức độ hài lòng của khách, từ đó đề xuất các phần thưởng phù hợp cho nhân viên.
+
+6. In hóa đơn
+    
+        -	In hóa đơn thuê phòng và dịch vụ, hiện thị chi tiết chi phí.
 ### 🛠️ CÔNG NGHỆ SỬ DỤNG
     - Dùng nền tảng .NET
     - Sử dụng ngôn ngữ C#
