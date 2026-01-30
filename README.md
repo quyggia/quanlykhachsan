@@ -1,9 +1,9 @@
-###PHẦN MỀM QUẢN LÝ KHÁCH SẠN
-  -Phần mềm quản lý khách sạn giúp giảm 30% thời gian nhập liệu thủ công, tối ưu hóa quy trình và giảm áp lực cho nhân viên.
-
-  -Nhờ tự động hóa nghiệp vụ, hệ thống tiết kiệm đáng kể thời gian vận hành, góp phần nâng cao hiệu suất làm việc chung.
-
-  -Qua đó, phần mềm cải thiện trải nghiệm cho cả nhân viên lẫn khách hàng, nâng cao chất lượng dịch vụ khách sạn.
+### 🚀PHẦN MỀM QUẢN LÝ KHÁCH SẠN
+    -Phần mềm quản lý khách sạn giúp giảm 30% thời gian nhập liệu thủ công, tối ưu hóa quy trình và giảm áp lực cho nhân viên.
+  
+    -Nhờ tự động hóa nghiệp vụ, hệ thống tiết kiệm đáng kể thời gian vận hành, góp phần nâng cao hiệu suất làm việc chung.
+  
+    -Qua đó, phần mềm cải thiện trải nghiệm cho cả nhân viên lẫn khách hàng, nâng cao chất lượng dịch vụ khách sạn.
   
 ### 📸 HÌNH ẢNH MINH HỌA
   1. Đăng nhập  <img width="915" height="574" alt="image" src="https://github.com/user-attachments/assets/5f672ef7-9de1-47c0-8962-f0b4d4b6f8ba" />
@@ -46,5 +46,12 @@
 
   
 ### ✨ TÍNH NĂNG CHÍNH
+    -	Quản lý hệ thống
+    -	Quản lý danh mục
+    -	Chức năng thuê phòng và trả phòng
+    -	Tìm kiếm theo danh mục
+    -	Báo cáo thống kê theo danh mục
+    -	In hóa đơn thanh toán.
+###
 
 
