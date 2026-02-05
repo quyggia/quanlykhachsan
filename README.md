@@ -8,7 +8,7 @@
 ### ✨ TÍNH NĂNG CHÍNH
     Quản lý hệ thống
         -    Đăng nhập
-        -    Thoát
+        -    Thoátt
     Quản lý danh mục
         -    Quản lý khách hàng
         -    Quản lý phòng
